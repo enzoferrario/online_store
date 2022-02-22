@@ -11,5 +11,22 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 html {
   background-color: #EEE;
+  font-size: 20px;
+}
+
+h1 {
   font-size: 30px;
+  margin-top: 0.125em;
+  margin-bottom: .25em;
+  text-align: center;
+}
+
+
+nav {
+  display: flex;
+  margin-left: 9.5em;
+  margin-right: 9.5em;
+  justify-content: space-around;
+  margin-bottom: 2em;
+  text-align: center;
 }

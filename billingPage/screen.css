@@ -30,3 +30,8 @@ nav {
   margin-bottom: 2em;
   text-align: center;
 }
+
+button {
+  font-size: 15px;
+  margin-top: 1em;
+}

@@ -1,9 +1,9 @@
 document.getElementById("next").onclick = function () {
-  location.href = "../shippingPage/index.html";
+  location.href = "../checkout/index.html";
 };
 
 document.getElementById("back").onclick = function () {
-  location.href = "../";
+  location.href = "../billingPage/index.html";
 };
 
 document.getElementById("home").onclick = function () {

@@ -1,11 +1,11 @@
 document.getElementById("next").onclick = function () {
-  location.href = "../checkout/index.html";
+  location.href = "/onlinestore/checkout/index.html";
 };
 
 document.getElementById("back").onclick = function () {
-  location.href = "../billingPage/index.html";
+  location.href = "/onlinestore/billingPage/index.html";
 };
 
 document.getElementById("home").onclick = function () {
-  location.href = "../";
+  location.href = "/onlinestore/";
 };

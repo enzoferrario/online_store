@@ -24,7 +24,7 @@ h1 {
   font-size: 3em;
   padding-top: 0.125em;
   text-align: center;
-  font-family: cursive, Arial, Helvetica;
+  font-family: "Gabriola","Times New Roman", Arial, Helvetica;
 }
 
 #navback {
@@ -39,7 +39,7 @@ nav {
   justify-content: space-between;
   margin-bottom: 1.5em;
   text-align: center;
-  font-family: cursive, Arial, Helvetica;
+  font-family: "Gabriola", "Times New Roman", Arial, Helvetica;
 }
 
 button {

@@ -51,6 +51,12 @@ h1 {
   font-family: Gabriola, "Times New Roman", Arial, Helvetica, sans-serif;
 }
 
+h2 {
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
+}
+
 #navback {
   background-color: #272;
   padding-top: 0.2em;
@@ -79,6 +85,7 @@ form {
 
 input {
   display: flex;
+  margin-bottom: 1em;
 }
 
 li {
@@ -89,4 +96,9 @@ li {
 p {
   margin-left: 0.25em;
   padding-top: 1.125em;
+  margin-bottom: 1em;
+}
+
+a {
+  background-color: #272;
 }
